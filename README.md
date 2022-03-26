@@ -1,8 +1,8 @@
 <h1 align="center">Hi There 👋, I'm S. Bala Subramanian</h1>
 <h3 align="center">An Aspiring FullStack Developer from India.</h3>
-<img align="right" alt="Coding" width="300" src="https://github.com/balasubbu2327/balasubbu2327/blob/main/gif3.gif?raw=true">
+<img align="right" alt="Coding" width="500" height="400"src="https://github.com/balasubbu2327/balasubbu2327/blob/main/gif3.gif?raw=true">
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=savisanjay1310&label=Profile%20views&color=0e75b6&style=flat" alt="savisanjay1310" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=savisanjay1310&label=Profile%20views&color=0e75b6&style=flat" alt="balasubbu2327" /> </p> -->
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT.**
 
