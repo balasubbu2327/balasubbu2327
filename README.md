@@ -10,8 +10,11 @@
 - 📫 How to reach me **balasubbu2327@gmail.com**
 - ⚡ Fun fact **My perfect day would start with strong coffee and end with meditation.**
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQG9tq7KFFTrnztmj6tNa_8U23m4HbNueEg&usqp=CAU" alt="" height="50" width="50" />  <img href="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzZZufba2BDVGvXNvc5ZS56_u377njEGazfQ&usqp=CAU" alt="" height="50" width="50"/></a>
+<a href="https://www.linkedin.com/in/bala-subbu-a0a453236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/savitha-v-b896031a7/" height="30" width="40" /></a>
+</p>
+
  
 </p>
 <h3 align="left">Languages and Tools:</h3>
