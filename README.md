@@ -11,7 +11,7 @@
 - ⚡ Fun fact **My perfect day would start with strong coffee ☕ and end with meditation.**
 - 💻 Here's My portfolio website  **https://bala-phi.vercel.app/**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/bala-subbu-a0a453236/" target="_blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linked in" height="50" width="50" />
