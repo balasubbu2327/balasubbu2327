@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me **balasubbu2327@gmail.com**
-- ⚡ Fun fact **My perfect day would start with strong coffee and end with meditation.**
+- ⚡ Fun fact **My perfect day would start with strong coffee ☕ and end with meditation.**
 - 💻 Here's My portfolio website  **https://bala-phi.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
