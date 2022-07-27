@@ -21,7 +21,7 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
-## Things I work with
+## 🛠Things I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
@@ -53,7 +53,7 @@
 
   
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">🍻Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/bala-subbu-a0a453236/" target="_blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linked in" height="50" width="50" />
