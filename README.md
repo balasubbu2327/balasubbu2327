@@ -1,6 +1,12 @@
 <h1 align="center">Hi There 👋, I'm S. Bala Subramanian</h1>
 <h3 align="center">An Aspiring FullStack Developer from India.</h3>
 
+<p align="right">
+<a href="https://github.com/balasubbu2327/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=balasubbu2327">
+</a>
+<a href="https://github.com/balasubbu2327?tab=followers"><img src="https://img.shields.io/github/followers/balasubbu2327?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
 
 
@@ -12,24 +18,6 @@
 - 💻 Here's My portfolio website  **https://bala-phi.vercel.app/**
 
 
-## ❤ Views and Followers
-<a href="https://github.com/balasubbu2327/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=balasubbu2327">
-</a>
-<a href="https://github.com/balasubbu2327?tab=followers"><img src="https://img.shields.io/github/followers/balasubbu2327?label=Followers&style=social" alt="GitHub Badge"></a>
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/bala-subbu-a0a453236/" target="_blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linked in" height="50" width="50" />
-</a>
-  <a href="https://www.instagram.com/aravind.pandian27/?igshid=YmMyMTA2M2Y%3D" target="_blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="50" width="50" />
-</a>
-<a href="7402060385" target="_blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="whatsapp" height="50" width="50" />
-</a>
-</p>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
@@ -65,5 +53,16 @@
 
   
 
-
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/bala-subbu-a0a453236/" target="_blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linked in" height="50" width="50" />
+</a>
+  <a href="https://www.instagram.com/aravind.pandian27/?igshid=YmMyMTA2M2Y%3D" target="_blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="50" width="50" />
+</a>
+<a href="7402060385" target="_blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="whatsapp" height="50" width="50" />
+</a>
+</p>
 
