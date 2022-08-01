@@ -45,8 +45,7 @@
 
 
 ## 😎 My Github Stats
-<br/>
-  
+
 ![Bala's GitHub stats](https://github-readme-stats.vercel.app/api?username=balasubbu2327&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balasubbu2327&layout=compact&theme=merko&langs_count=6)
