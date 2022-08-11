@@ -57,23 +57,23 @@
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balasubbu2327&show_icons=true&theme=merko&langs_count=4&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=balasubbu2327&show_icons=true&theme=gotham&langs_count=4&hide_border=true">
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balasubbu2327&theme=merko&langs_count=4&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balasubbu2327&theme=gotham&langs_count=4&hide_border=true">
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balasubbu2327&langs_count=8&theme=merko&langs_count=4&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balasubbu2327&langs_count=8&theme=gotham&langs_count=4&hide_border=true">
 </p>
 <br>
 <!-- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=balasubbu2327&theme=omni&langs_count=4&hide_border=true)     ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=balasubbu2327&layout=compact&theme=omni&langs_count=4&hide_border=true)&ensp; &ensp; &ensp; &ensp;  -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=balasubbu2327&theme=gotham&langs_count=4&hide_border=true)     ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=balasubbu2327&layout=compact&theme=gotham&langs_count=4&hide_border=true)&ensp; &ensp; &ensp; &ensp;  -->
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=balasubbu2327&title=Followers,Stars,Commit&theme=onedark&no-bg=true&no-frame=true) -->
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=balasubbu2327&title=Followers,Stars,Commit&theme=gotham&no-bg=true&no-frame=true) -->
 
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=balasubbu2327&theme=onedark&no-bg=true&no-frame=true" /></a>
+<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=balasubbu2327&theme=gotham&no-bg=true&no-frame=true" /></a>
 </p>
 <hr />
 
