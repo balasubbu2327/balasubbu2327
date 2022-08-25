@@ -8,10 +8,7 @@
 <a href="https://github.com/balasubbu2327?tab=followers"><img src="https://img.shields.io/github/followers/balasubbu2327?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-
-
 - 🌱 I’m currently learning **WEB DEVELOPMENT.**
-
 - 💬 Ask me about **MERN Stack**
 - 📫 How to reach me **balasubbu2327@gmail.com**
 - ⚡ Fun fact **My perfect day would start with strong coffee ☕ and end with meditation.**
